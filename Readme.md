@@ -1,4 +1,4 @@
-## TheNovice-Nginx
+## LEMP STACK 
     LEMP STACK ด้วย docker
     
 ## Requirement
